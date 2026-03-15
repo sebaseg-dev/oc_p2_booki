@@ -85,3 +85,7 @@ Not applicable – no build tools or package managers are needed for this projec
 
 This is a **training project** created as part of the OpenClassrooms curriculum.
 Some implementations (e.g., accessibility, performance optimization) are simplified and may not meet production standards.
+
+---
+
+> Renamed the default branch from ~~master~~ to `main` to align with modern industry standards for inclusive terminology.
