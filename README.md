@@ -25,7 +25,7 @@ Source code of **Project 2 - Booki**: *Build the homepage of a travel agency wit
 |----------------------------------------------------------------|-------------------------------------------------------------|
 | ![Desktop preview](./assets/screenshot_homepage_1440x1024.png) | ![Mobile preview](./assets/screenshot_homepage_390x844.png) |
 
-🔗 [Live preview on GitHub Pages](https://sedomu.github.io/oc_p2_booki/)
+🔗 [Live preview on GitHub Pages](https://sebaseg-dev.github.io/oc_p2_booki/)
 
 ---
 
